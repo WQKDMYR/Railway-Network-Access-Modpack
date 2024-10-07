@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "overrides": {
+    "ingameime": {
+      "-depends": {
+         "cloth-config": "*",
+         "Fabric API": "*"
+      },
+      "+depends": {
+         "cloth-config2": "*",
+         "fabric": "*"
+      }
+    }
+  }
+}
